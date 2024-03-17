@@ -5,6 +5,6 @@ Por el momento me encuentro estudiando programacion y capacitandome profesionalm
 ### Mis Conocimientos por ahora
 * HTML5 (nivel:intermedio)
 * CSS3 (nivel:intermedio)
-* JavaScript (nivel:basico)
+* JavaScript (nivel:Intermedio)
 * GIT (nivel:basico)
 * React (nivel:basico)
